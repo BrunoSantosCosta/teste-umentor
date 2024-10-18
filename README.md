@@ -60,7 +60,7 @@ O projeto segue o padrão de arquitetura MVC (Model-View-Controller), separando 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd repo
+    cd teste-umentor
     ```
 
 3. Configure o banco de dados:
