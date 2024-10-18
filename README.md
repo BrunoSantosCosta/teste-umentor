@@ -54,7 +54,7 @@ O projeto segue o padrão de arquitetura MVC (Model-View-Controller), separando 
 1. Clone o repositório do GitHub:
 
     ```bash
-    git clone https://github.com/usuario/repo.git
+    git clone https://github.com/BrunoSantosCosta/teste-umentor.git
     ```
 
 2. Navegue até o diretório do projeto:
